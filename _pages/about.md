@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alexandra Bremers"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-
-
-Welcome!
-======
-This is the beginning of my personal website. More work is coming soon.
+This is the beginning of my personal website. Have a look around, more work is coming soon.
