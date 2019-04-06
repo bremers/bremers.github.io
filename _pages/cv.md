@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Programme, Entrepreneurship: Oxbridge Connect RisingWISE, University of Cambridge & University of Oxford, 2019
+* Programme, RisingWISE, University of Cambridge & University of Oxford, 2019
 * M.Sc. in Artificial Intelligence, Utrecht University, 2018
   * GPA: 4.0
 * Lectures, Computer Science, National Taiwan University, 2017
@@ -24,31 +24,36 @@ Education
   * Fully funded as part of high school excellence programme at Stedelijk Gymnasium Arnhem
 * Module, Cambridge ESOL First Certificate in English, University of Cambridge, 2009
 
+
 Work experience
 ======
 * August 2018 - now: Human-Machine Interface Researcher
-  * Jaguar Land Rover
+  * Jaguar Land Rover, UK
   * Winner TATA Innovista 2019 Europe Regional Awards, Finalist in TATA Innovista 2019 Global Awards, Finalist in JLR Innovista 2019 Global Awards
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* December 2017 - July 2018: Postgraduate Engineer
+  * Jaguar Land Rover, Coventry (UK)
+  * Wrote MSc thesis (graded 8.5/10, highest honours)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* January 2017 - November 2017: Founding Chairman
+  * mAIster
+  * A study association for Artificial Intelligence MSc students at Utrecht University
+  
+* July - August 2017: Research Intern
+  * Intel-NTU IoX Center, Taipei (TW)
+  * Worked on machine intelligence user experience for smart homes
+  
+* September 2015 - January 2016: Industrial Design Intern
+  * Next Nature Network, Amsterdam (NL)
 
-Publications
+
+Other work experience
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2019: Visual Design Chair
+  * ACM International Conference on Automotive User Interfaces
+* 2019: Social Media Officer
+  * OSA Display Technology Technical Group
+
   
 Talks
 ======
