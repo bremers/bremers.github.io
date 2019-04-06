@@ -11,16 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Programme, Entrepreneurship: Oxbridge Connect RisingWISE, University of Cambridge & University of Oxford, 2019
+* M.Sc. in Artificial Intelligence, Utrecht University, 2018
+  * GPA: 4.0
+* Lectures, Computer Science, National Taiwan University, 2017
+  * Fully funded as part of summer research programme at NTU IoX Center
+* B.Sc. in Industrial Design, Eindhoven University of Technology, 2016 
+  * Received mark "Excellent" (top 10%) for 3 semesters
+* Masterclass, Linguistics: Slang, Sign Language and Multilingualism, Radboud University, 2011
+  * Fully funded as part of high school excellence programme at Stedelijk Gymnasium Arnhem
+* Module, Computer Science: Designing Web-Based Software, Radboud University, 2010
+  * Fully funded as part of high school excellence programme at Stedelijk Gymnasium Arnhem
+* Module, Cambridge ESOL First Certificate in English, University of Cambridge, 2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2018 - now: Human-Machine Interface Researcher
+  * Jaguar Land Rover
+  * Winner TATA Innovista 2019 Europe Regional Awards, Finalist in TATA Innovista 2019 Global Awards, Finalist in JLR Innovista 2019 Global Awards
 
 * Fall 2015: Research Assistant
   * Github University
