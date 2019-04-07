@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Alexandra Bremers"
   avatar           : "Alexandra.png"
-  bio              : "Researching how to make complex machines that are pleasant to use. <br></br> Special interests:
-                      * tangible and intuitive interaction
-                      * design for workload reduction
-                      * design for increased situational awareness
-                      * perception in mixed reality displays
-                      * digital craftmanship
-                      * mixed media storytelling"
+  bio              : "Researching how to make complex machines that are pleasant to use. <br></br> Special interests: <br />
+                        * tangible and intuitive interaction <br />
+                        * design for workload reduction <br />
+                        * design for increased situational awareness <br />
+                        * perception in mixed reality displays <br />
+                        * digital craftmanship <br />
+                        * mixed media storytelling"
   location         : "Leamington Spa, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
