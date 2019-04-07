@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<br></br>
 Education
 ======
 * <strong> Programme, RisingWISE, University of Cambridge & University of Oxford </strong>
@@ -20,7 +21,7 @@ Education
   * <strong> Supervisor: </strong>Dr. Christian P. Janssen
   * <strong> GPA: </strong>4.0
 * <strong> Lectures, Computer Science, National Taiwan University</strong>
-  * <strong> Date: </strong>summer 2017
+  * <strong> Date: </strong>07/2017 - 08/2017
   * Fully funded by NTU IoX Center
 * <strong> B.Sc. in Industrial Design, Eindhoven University of Technology </strong>
   * <strong> Date: </strong>2013 - 2016
@@ -36,12 +37,12 @@ Education
 * <strong> Module, Cambridge ESOL First Certificate in English, University of Cambridge </strong>
   * <strong> Date: </strong>2009
 
-
+<br></br>
 Professional work experience
 ======
 * <strong>Human-Machine Interface Researcher</strong>
   * <strong>Date: </strong>08/2018 - now
-  * Jaguar Land Rover, UK
+  * Jaguar Land Rover, Coventry (UK)
   * Winner TATA Innovista 2019 Europe Regional Awards, Finalist in TATA Innovista 2019 Global Awards, Finalist in JLR Innovista 2019 Global Awards
 
 * <strong>Postgraduate Engineer</strong>
@@ -58,22 +59,34 @@ Professional work experience
   * <strong>Date: </strong>09/2015 - 01/2016
   * Next Nature Network, Amsterdam (NL)
 
-
+<br></br>
 Community involvement
 ======
-* 2019: Visual Design Chair
+* <strong>Visual Design Chair</strong>
+  * <strong>Date: </strong>2019
   * ACM International Conference on Automotive User Interfaces
-* 2019: Social Media Officer
+* <strong>Social Media Officer</strong>
+  * <strong>Date: </strong>2019
   * OSA Display Technology Technical Group
-* Founding Chairman, mAIster
-  * Date: 01/2017 - 11/2017
+* <strong>Founding Chairman, mAIster</strong>
+  * <strong>Date:</strong> 01/2017 - 11/2017
+  * Study association for AI MSc students in Utrecht
+* <strong>Vice President</strong>
+  * <strong>Date:</strong> 09/2011 - 08/2012
+  * School magazine Iris Tacheia
+  * Won: Best School Magazine of the Netherlands (2012), Most Beautiful School Magazine of the Netherlands (2012)
+  * Writer from 2007 - 2013
+* <strong>Pupil Representative</strong>
+  * <strong>Date: </strong>2011 - 2013
+  * School and regional school group participatory council
   
-
+<br></br>
 Volunteering
 ======
-* 2019: Visual Design Chair
-  * ACM International Conference on Automotive User Interfaces
-* 2019: Social Media Officer
-  * OSA Display Technology Technical Group
+* <strong>Exhibition guide and assistant</strong>
+  * <strong>Date: </strong>2013 - 2016
+  * Fiber Festival'15, Dutch Design Week'13, GLOW Next Eindhoven'13, Baltan Laboratories Reversi project'15
+* <strong>Test subject</strong>
+  * <strong>Date: </strong>2014 - 2017
 
 
