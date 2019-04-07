@@ -16,18 +16,25 @@ Education
   * Fully funded
 * <strong> M.Sc. in Artificial Intelligence, Utrecht University </strong>
   * <strong> Date: </strong>2016 - 2018
-  * <strong> Thesis: </strong>Perception in Head-Up Displays (full details under embargo), highest honours (8.5/10), Jaguar Land Rover
+  * <strong> Thesis: </strong>Perception in Head-Up Displays (embargo), highest honours (8.5/10), Jaguar Land Rover
   * <strong> Supervisor: </strong>Dr. Christian P. Janssen
   * <strong> GPA: </strong>4.0
-* <strong> Lectures, Computer Science, National Taiwan University, 2017 </strong>
+* <strong> Lectures, Computer Science, National Taiwan University</strong>
+  * <strong> Date: </strong>summer 2017
   * Fully funded by NTU IoX Center
-* <strong> B.Sc. in Industrial Design, Eindhoven University of Technology, 2016 </strong>
-  * Received mark "Excellent" (top 10%) for 3 semesters
-* <strong> Masterclass, Linguistics: Slang, Sign Language and Multilingualism, Radboud University, 2011 </strong>
-  * Fully funded by high school, excellence programme
-* <strong> Module, Computer Science: Designing Web-Based Software, Radboud University, 2010 </strong>
-  * Fully funded by high school, excellence programme
-* <strong> Module, Cambridge ESOL First Certificate in English, University of Cambridge, 2009 </strong>
+* <strong> B.Sc. in Industrial Design, Eindhoven University of Technology </strong>
+  * <strong> Date: </strong>2013 - 2016
+  * <strong> Graduation Project: </strong>How to embroider a radio?, honours (8.0)
+  * <strong> Supervisor: </strong>Dr. Oscar Tomico Plasencia
+  * Marked "Excellent" (top 10%) for 3 semesters
+* <strong> Masterclass, Linguistics: Slang, Sign Language and Multilingualism, Radboud University </strong>
+  * <strong> Date: </strong>2011
+  * Fully funded by high school excellence programme
+* <strong> Module, Computer Science: Designing Web-Based Software, Radboud University</strong>
+  * <strong> Date: </strong>2010
+  * Fully funded by high school excellence programme
+* <strong> Module, Cambridge ESOL First Certificate in English, University of Cambridge </strong>
+  * <strong> Date: </strong>2009
 
 
 Work experience
