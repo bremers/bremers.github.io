@@ -88,5 +88,22 @@ Volunteering
   * Fiber Festival'15, Dutch Design Week'13, GLOW Next Eindhoven'13, Baltan Laboratories Reversi project'15
 * <strong>Test subject</strong>
   * <strong>Date: </strong>2014 - 2017
+  * J.F. Schouten School for User-System Interaction Research
+  
+  
+Languages
+======
+* <strong>Dutch</strong>
+  * <strong>Level: </strong>Native
+* <strong>English</strong>
+  * <strong>Level: </strong>Proficient
+  * Two years of working experience abroad, English-taught education since 2013
+  * Cambridge ESOL First Certificate in English (2009)
+* <strong>French</strong>
+  * <strong>Level: </strong>Limited working proficiency
+  * Passed high school examination at level B2 (grade 8.0/10)
+* <strong>Mandarin Chinese</strong>
+  * <strong>Level: </strong>Limited working proficiency
+  * Bilingual upbringing, speech only
 
 
