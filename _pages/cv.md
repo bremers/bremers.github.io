@@ -14,7 +14,7 @@ Education
 ======
 * <strong> Programme, RisingWISE, University of Cambridge & University of Oxford </strong>
   * <strong> Date: </strong>2018 - 2019
-  * Developing and connecting young female entrepreneurs in STEM
+  * For young female entrepreneurs in STEM
   * Fully funded by the universities
 * <strong> Module, Human-Technology Interaction for Automotive, Warwick University </strong>
   * <strong> Date: </strong>03/2019
