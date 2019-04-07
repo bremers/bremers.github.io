@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* <strong> Programme, RisingWISE, University of Cambridge & University of Oxford, 2019 </strong>
+* <strong> Programme, RisingWISE, University of Cambridge & University of Oxford </strong>
+  * <strong> Date: </strong>2018 - 2019
   * Fully funded
-* <strong> M.Sc. in Artificial Intelligence, Utrecht University, 2018 </strong>
-  * GPA: 4.0
+* <strong> M.Sc. in Artificial Intelligence, Utrecht University </strong>
+  * <strong> Date: </strong>2016 - 2018
+  * <strong> GPA: </strong>4.0
 * <strong> Lectures, Computer Science, National Taiwan University, 2017 </strong>
   * Fully funded by NTU IoX Center
 * <strong> B.Sc. in Industrial Design, Eindhoven University of Technology, 2016 </strong>
