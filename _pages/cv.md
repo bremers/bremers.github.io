@@ -16,6 +16,8 @@ Education
   * Fully funded
 * <strong> M.Sc. in Artificial Intelligence, Utrecht University </strong>
   * <strong> Date: </strong>2016 - 2018
+  * <strong> Thesis: </strong>Perception in Head-Up Displays (full details under embargo), highest honours (8.5/10), Jaguar Land Rover
+  * <strong> Supervisor: </strong>Dr. Christian P. Janssen
   * <strong> GPA: </strong>4.0
 * <strong> Lectures, Computer Science, National Taiwan University, 2017 </strong>
   * Fully funded by NTU IoX Center
