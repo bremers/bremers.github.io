@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<br></br>
+
 Education
 ======
 * <strong> Programme, RisingWISE, University of Cambridge & University of Oxford </strong>
@@ -37,7 +37,7 @@ Education
 * <strong> Module, Cambridge ESOL First Certificate in English, University of Cambridge </strong>
   * <strong> Date: </strong>2009
 
-<br></br>
+
 Professional work experience
 ======
 * <strong>Human-Machine Interface Researcher</strong>
@@ -59,7 +59,7 @@ Professional work experience
   * <strong>Date: </strong>09/2015 - 01/2016
   * Next Nature Network, Amsterdam (NL)
 
-<br></br>
+
 Community involvement
 ======
 * <strong>Visual Design Chair</strong>
@@ -80,7 +80,7 @@ Community involvement
   * <strong>Date: </strong>2011 - 2013
   * School and regional school group participatory council
   
-<br></br>
+
 Volunteering
 ======
 * <strong>Exhibition guide and assistant</strong>
