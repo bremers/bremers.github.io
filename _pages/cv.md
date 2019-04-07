@@ -37,32 +37,43 @@ Education
   * <strong> Date: </strong>2009
 
 
-Work experience
+Professional work experience
 ======
-* August 2018 - now: Human-Machine Interface Researcher
+* <strong>Human-Machine Interface Researcher</strong>
+  * <strong>Date: </strong>08/2018 - now
   * Jaguar Land Rover, UK
   * Winner TATA Innovista 2019 Europe Regional Awards, Finalist in TATA Innovista 2019 Global Awards, Finalist in JLR Innovista 2019 Global Awards
 
-* December 2017 - July 2018: Postgraduate Engineer
+* <strong>Postgraduate Engineer</strong>
+  * <strong>Date: </strong>12/2017 - 07/2018
   * Jaguar Land Rover, Coventry (UK)
-  * Wrote MSc thesis (graded 8.5/10, highest honours)
+  * Wrote MSc thesis on HUD perception (embargo) (8.5/10, highest honours)
   
-* January 2017 - November 2017: Founding Chairman
-  * mAIster, at Utrecht University
-  * A study association for Artificial Intelligence MSc students
-  
-* July - August 2017: Research Intern
+* <strong>Research Intern</strong>
+  * <strong>Date: </strong>07/2017 - 08/2017
   * Intel-NTU IoX Center, Taipei (TW)
   * Worked on machine intelligence user experience for smart homes
   
-* September 2015 - January 2016: Industrial Design Intern
+* <strong>Industrial Design Intern</strong>
+  * <strong>Date: </strong>09/2015 - 01/2016
   * Next Nature Network, Amsterdam (NL)
 
 
-Other work experience
+Community involvement
 ======
 * 2019: Visual Design Chair
   * ACM International Conference on Automotive User Interfaces
 * 2019: Social Media Officer
   * OSA Display Technology Technical Group
+* Founding Chairman, mAIster
+  * Date: 01/2017 - 11/2017
+  
+
+Volunteering
+======
+* 2019: Visual Design Chair
+  * ACM International Conference on Automotive User Interfaces
+* 2019: Social Media Officer
+  * OSA Display Technology Technical Group
+
 
