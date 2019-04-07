@@ -13,17 +13,17 @@ Education
 ======
 * <strong> Programme, RisingWISE, University of Cambridge & University of Oxford, 2019 </strong>
   * Fully funded
-* M.Sc. in Artificial Intelligence, Utrecht University, 2018
+* <strong> M.Sc. in Artificial Intelligence, Utrecht University, 2018 </strong>
   * GPA: 4.0
-* Lectures, Computer Science, National Taiwan University, 2017
+* <strong> Lectures, Computer Science, National Taiwan University, 2017 </strong>
   * Fully funded by NTU IoX Center
-* B.Sc. in Industrial Design, Eindhoven University of Technology, 2016 
+* <strong> B.Sc. in Industrial Design, Eindhoven University of Technology, 2016 </strong>
   * Received mark "Excellent" (top 10%) for 3 semesters
-* Masterclass, Linguistics: Slang, Sign Language and Multilingualism, Radboud University, 2011
+* <strong> Masterclass, Linguistics: Slang, Sign Language and Multilingualism, Radboud University, 2011 </strong>
   * Fully funded by high school, excellence programme
-* Module, Computer Science: Designing Web-Based Software, Radboud University, 2010
+* <strong> Module, Computer Science: Designing Web-Based Software, Radboud University, 2010 </strong>
   * Fully funded by high school, excellence programme
-* Module, Cambridge ESOL First Certificate in English, University of Cambridge, 2009
+* <strong> Module, Cambridge ESOL First Certificate in English, University of Cambridge, 2009 </strong>
 
 
 Work experience
