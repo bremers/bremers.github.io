@@ -70,7 +70,7 @@ Community involvement
   * OSA Display Technology Technical Group
 * <strong>Founding Chairman, mAIster</strong>
   * <strong>Date:</strong> 01/2017 - 11/2017
-  * Study association for AI MSc students in Utrecht
+  * mAIster is the study association for AI MSc students in Utrecht
 * <strong>Vice President</strong>
   * <strong>Date:</strong> 09/2011 - 08/2012
   * School magazine Iris Tacheia
