@@ -1,6 +1,6 @@
 # main links links
 main: 
-  - title: "Design"
+  - title: "Projects"
     url: /portfolio/
     
   - title: "CV"
@@ -8,10 +8,6 @@ main:
     
   - title: "Talks"
     url: /talks/   
-    
-  - title: "AI"
-    url: /ai/
-    
 
     
     
