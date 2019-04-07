@@ -59,7 +59,7 @@ Professional work experience
   * <strong>Date: </strong>2015
   * Bruynzeel Storage Systems, Panningen (NL)
   * Shaping the Office Challenge
-  * Won 2nd Student Prize and 4th place in Functionality challenge
+  * Won 2nd Student Prize
   
 * <strong>Industrial Design Intern</strong>
   * <strong>Date: </strong>09/2015 - 01/2016
