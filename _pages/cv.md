@@ -14,7 +14,11 @@ Education
 ======
 * <strong> Programme, RisingWISE, University of Cambridge & University of Oxford </strong>
   * <strong> Date: </strong>2018 - 2019
-  * Fully funded
+  * Developing and connecting young female entrepreneurs in STEM
+  * Fully funded by the universities
+* <strong> Module, Human-Technology Interaction for Automotive, Warwick University </strong>
+  * <strong> Date: </strong>03/2019
+  * Fully funded by Jaguar Land Rover
 * <strong> M.Sc. in Artificial Intelligence, Utrecht University </strong>
   * <strong> Date: </strong>2016 - 2018
   * <strong> Thesis: </strong>Perception in Head-Up Displays (embargo), highest honours (8.5/10), Jaguar Land Rover
