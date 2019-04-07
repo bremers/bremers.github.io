@@ -55,6 +55,12 @@ Professional work experience
   * Intel-NTU IoX Center, Taipei (TW)
   * Worked on machine intelligence user experience for smart homes
   
+* <strong>Design Contest Participant</strong>
+  * <strong>Date: </strong>2015
+  * Bruynzeel Storage Systems, Panningen (NL)
+  * Shaping the Office Challenge
+  * Won 2nd Student Prize and 4th place in Functionality challenge
+  
 * <strong>Industrial Design Intern</strong>
   * <strong>Date: </strong>09/2015 - 01/2016
   * Next Nature Network, Amsterdam (NL)
