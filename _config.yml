@@ -82,13 +82,7 @@ analytics:
 author:
   name             : "Alexandra Bremers"
   avatar           : "Alexandra.png"
-  bio              : "Researching how to make complex machines that are pleasant to use. <br></br> Special interests: <br />
-                        * mixed reality displays <br />
-                        * intuitive interaction <br />
-                        * A.I. & automation <br />
-                        * distributed systems <br />
-                        * digital craftmanship <br />
-                        * mixed media storytelling"
+  bio              : "Researching how to make intelligent (automotive) products that are pleasant to use." 
   location         : "Leamington Spa, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -108,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "http://linkedin.com/alexandrabremers"
+  linkedin         : "http://linkedin.com/awdb"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -116,7 +110,6 @@ author:
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
-  vimeo            : "https://vimeo.com/user40828979"
   vine             :
   weibo            :
   xing             :
