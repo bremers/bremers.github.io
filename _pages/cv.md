@@ -14,7 +14,7 @@ Education
 ======
 * <strong> Post-Degree Education: </strong>
   * <strong> Certificate, RisingWISE </strong>
-    * <strong> Date: </italic>2018 - 2019
+    * <strong> Date: </strong>2018 - 2019
     * <strong> Institution:</strong> University of Oxford & University of Cambridge
     * For young female entrepreneurs in STEM
     * Fully funded by the universities
