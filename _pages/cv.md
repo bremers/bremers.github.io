@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* <strong> Post-University Education: </strong>
+* <strong> Post-Degree Education: </strong>
   * <strong> Certificate, RisingWISE </strong>
     * <strong> Date: </italic>2018 - 2019
     * <strong> Institution:</strong> University of Oxford & University of Cambridge
@@ -39,7 +39,7 @@ Education
       * 2nd student place in Bruynzeel Designing the Office Challenge (2015)
       * Marked "Excellent" (top 10%) for 2 semesters   
 
-* <strong> Pre-University Education: </strong>  
+* <strong> Pre-Degree Education: </strong>  
   * <strong> Masterclass, Linguistics: Slang, Sign Language and Multilingualism</strong>
     * <strong> Date: </strong>2011
     * <strong> Institution: </strong>Radboud University
