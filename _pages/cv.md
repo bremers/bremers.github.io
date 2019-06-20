@@ -49,8 +49,8 @@ Education
     * <strong> Institution: </strong>Radboud University
     * Fully funded by high school excellence programme
   * <strong> Module, Cambridge ESOL First Certificate in English</strong>
-    * <strong> Institution: </strong>University of Cambridge
     * <strong> Date: </strong>2009
+    * <strong> Institution: </strong>University of Cambridge
 
 
 Professional work experience
