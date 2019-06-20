@@ -12,6 +12,15 @@ redirect_from:
 
 Education
 ======
+* <strong> Post-University Education
+  * <strong> Programme, RisingWISE, University of Cambridge & University of Oxford </strong>
+    * <strong> Date: </strong>2018 - 2019
+    * For young female entrepreneurs in STEM
+    * Fully funded by the universities
+
+
+
+
 * <strong> Programme, RisingWISE, University of Cambridge & University of Oxford </strong>
   * <strong> Date: </strong>2018 - 2019
   * For young female entrepreneurs in STEM
