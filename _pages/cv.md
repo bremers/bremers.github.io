@@ -14,7 +14,7 @@ Education
 ======
 * <strong> Post-University Education: </strong>
   * <strong> Certificate, RisingWISE </strong>
-    * <strong> Date: </strong>2018 - 2019
+    * <strong> Date: </italic>2018 - 2019
     * <strong> Institution:</strong> University of Oxford & University of Cambridge
     * For young female entrepreneurs in STEM
     * Fully funded by the universities
@@ -31,21 +31,25 @@ Education
     * <strong> Supervisor: </strong>Dr. Christian P. Janssen
     * <strong> GPA: </strong>4.0, grade 8.0/10
     * Additional lectures in Computer Science at National Taiwan University 
-   * <strong> B.Sc. in Industrial Design, Eindhoven University of Technology </strong>
+   * <strong> B.Sc. in Industrial Design</strong>
       * <strong> Date: </strong>2013 - 2016
+      * <strong> Institution: </strong>Eindhoven University of Technology
       * <strong> Graduation Project: </strong>How to embroider a radio?, honours (8.0)
       * <strong> Supervisor: </strong>Dr. Oscar Tomico Plasencia
       * 2nd student place in Bruynzeel Designing the Office Challenge (2015)
-      * Marked "Excellent" (top 10%) for 3 semesters   
+      * Marked "Excellent" (top 10%) for 2 semesters   
 
 * <strong> Pre-University Education: </strong>  
-  * <strong> Masterclass, Linguistics: Slang, Sign Language and Multilingualism, Radboud University </strong>
+  * <strong> Masterclass, Linguistics: Slang, Sign Language and Multilingualism</strong>
     * <strong> Date: </strong>2011
+    * <strong> Institution: </strong>Radboud University
     * Fully funded by high school excellence programme
-  * <strong> Module, Computer Science: Designing Web-Based Software, Radboud University</strong>
+  * <strong> Module, Computer Science: Designing Web-Based Software</strong>
     * <strong> Date: </strong>2010
+    * <strong> Institution: </strong>Radboud University
     * Fully funded by high school excellence programme
-  * <strong> Module, Cambridge ESOL First Certificate in English, University of Cambridge </strong>
+  * <strong> Module, Cambridge ESOL First Certificate in English</strong>
+    * <strong> Institution: </strong>University of Cambridge
     * <strong> Date: </strong>2009
 
 
@@ -65,6 +69,7 @@ Professional work experience
   * <strong>Date: </strong>07/2017 - 08/2017
   * Intel-NTU IoX Center, Taipei (TW)
   * Worked on machine intelligence user experience for smart homes
+  * Delivered interface design and usability studies
   
 * <strong>Industrial Design Intern</strong>
   * <strong>Date: </strong>09/2015 - 01/2016
