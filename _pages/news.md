@@ -1,10 +1,10 @@
 ---
-permalink: /news/
+layout: archive
 title: "News"
-excerpt: "News"
+permalink: /news/
 author_profile: true
-redirect_from: 
-  - /news/
+redirect_from:
+  - /news
   - /news.html
 ---
 
