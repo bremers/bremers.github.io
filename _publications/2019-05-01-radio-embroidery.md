@@ -1,7 +1,6 @@
 ---
 title: "Making Radio Receivers with Embroidered Coils: Technical Explorations, Workshops and Interviews at the Intersection of Radio-Amateurism and Fashion"
 collection: publications
-permalink: /publication/2019-05-01-radio-embroidery
 excerpt: 'This working paper describes my design bachelor graduation project and is currently under embargo.'
 date: 2019-05-01
 venue: 'Under embargo.'
