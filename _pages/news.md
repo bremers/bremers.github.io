@@ -10,8 +10,8 @@ author_profile: true
 (This page is currently under construction)
 
 *14/06/2019 <strong>RisingWISE reunite @ Cambridge</strong>
-![Image of RisingWISE weekend reunion](https://bremers.github.io/images/0.jpg)
+![Image of RisingWISE weekend reunion](https://bremers.github.io/images/risingwise4.jpg)
 
 *01/01/2019 <strong>3rd RisingWISE programme weekend @ Oxford Saïd Business School</strong>
-![Image of RisingWISE weekend 3](https://bremers.github.io/images/oxford.jpg)
+![Image of RisingWISE weekend 3](https://bremers.github.io/images/risingwise3.jpg)
 
