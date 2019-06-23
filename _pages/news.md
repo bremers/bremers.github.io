@@ -13,4 +13,7 @@ author_profile: true
 ![Image of RisingWISE reunite](https://bremers.github.io/images/0.jpg)
 
 *01/01/2019 <strong>3rd RisingWISE programme weekend @ Oxford Saïd Business School</strong>
-![Image of RisingWISE weekend 3](https://bremers.github.io/images/oxford.jpg =250x)
+![Image of RisingWISE weekend 3](https://bremers.github.io/images/oxford.jpg)
+
+
+<img src="https://bremers.github.io/images/0.jpg" alt="With fellow JLR women in Oxford" width=500/>
