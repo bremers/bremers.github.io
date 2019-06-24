@@ -9,7 +9,7 @@ author_profile: true
 
 (This page is currently under construction)
 
-*June 2019 <strong>RisingWISE reunite @ Cambridge</strong>
+*June 2019 <strong>RisingWISE reunite @ University of Cambridge</strong>
 ![Image of RisingWISE weekend reunion](https://bremers.github.io/images/0.jpg)
 
 *February 2019 <strong>We made it to the global finals of the Jaguar Land Rover Innovista Awards!</strong>
