@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: single
 title: "News"
 permalink: /news/
 author_profile: true
