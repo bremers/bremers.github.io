@@ -10,4 +10,7 @@ main:
   - title: "News"
     url: /news/
     
+  - title: "Portfolio"
+    url: /portfolio/
+    
     
