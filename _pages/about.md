@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the beginning of my personal website. Have a look around, more work is coming soon.
+I am a designer and researcher from The Netherlands. In my day job I design and develop interactive, artificially intelligent systems for use inside the car cabin. I obtained degrees in Industrial design from Eindhoven University of Technology, and Artificial Intelligence from Utrecht University. On this website I showcase my public work; you can also find my CV, recent news, as well as links to my other social media accounts. 
