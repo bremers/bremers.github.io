@@ -16,9 +16,9 @@ Where we have a lot of tools that can do something of a physical or mechanical n
 
 Now why would I study interaction between humans and intelligent cyber-physical systems? It turns out that it is quite hard to get the interaction right. In the best case, a suboptimal interaction design might just lead to annoyances or perhaps a slight dip in productivity. In the worst case, a suboptimal interaction design can affect our wellbeing and health, or might even lead to fatalities. 
 
-I am especially interested in design for automotive because of the big importance of good interaction design within this application area. Cars are not only ingenious machines, but also widely used tools by a very large percentage of the world population. At the same time, a lot of people die everyday from using cars or being close to someone using a car. Then two other key issues are pollution and congestion.
+I am especially interested in design for automotive because of the big importance of good interaction design within this application area. Cars are not only ingenious machines, but also widely used tools by a very large percentage of the world population. At the same time, sadly, a lot of people get injured or worse everyday, from using cars or being close to someone using a car. Then two other key issues are pollution and congestion.
 
-I am happy to see that cars are becoming smarter and better every day, and strongly believe that bringing intelligent systems into vehicles is the right step that we should be taking in order to reduce accidents, pollution and congestions. But in order for us to be able to use these technologies to our benefit, we have to make sure that the interaction is designed in the right way. 
+I am glad to see that cars are becoming smarter and better every day, and strongly believe that bringing intelligent systems into vehicles is the right step that we should be taking in order to reduce accidents, pollution and congestions. But in order for us to be able to use these technologies to our benefit, we have to make sure that the interaction is designed in the right way. 
 
 (To be added: a bit where I expand a bit more on how I see this should be done.)
 
