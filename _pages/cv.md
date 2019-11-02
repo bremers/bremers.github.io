@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+@settings {
+  font-size: 100;
+}
 
 
 Education
