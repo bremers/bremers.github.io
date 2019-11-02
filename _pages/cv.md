@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-![CV page 1](hhttps://github.com/bremers/bremers.github.io/blob/master/images/Resume_2_page_neutral_version.jpg)
+![CV page 1](https://github.com/bremers/bremers.github.io/blob/master/images/Resume_2_page_neutral_version.jpg)
