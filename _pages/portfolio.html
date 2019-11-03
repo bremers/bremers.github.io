@@ -8,7 +8,11 @@ author_profile: true
 {% include base_path %}
 
 <html>
+<head>
+  <link rel="stylesheet" type="text/css" href="https://bremers.github.io/assets/css/slideshow.css">
+</head>
 <!-- Slideshow container -->
+<body>
 <div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
@@ -42,6 +46,7 @@ author_profile: true
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
+</body>
 </html>
 
 {% for post in site.portfolio %}
