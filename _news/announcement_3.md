@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-04-28
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+XR-OOM featured in Cornell Chronicle: https://news.cornell.edu/stories/2022/04/mixed-reality-driving-simulator-low-cost-alternative
