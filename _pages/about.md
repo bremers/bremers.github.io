@@ -17,4 +17,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I study human-robot collaboration for physical manufacturing and fabrication. My research methods cover interaction design, video analysis, and interactive device prototyping.
+I study human-robot collaboration for physical manufacturing and fabrication. My research methods cover interaction design, video analysis, and interactive device prototyping. 
