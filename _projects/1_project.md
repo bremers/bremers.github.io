@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Radio embroidery
+description: Crystal radio receivers with embroidered coild
+img: assets/img/coils.jpg
 importance: 1
-category: work
+category: completed
 ---
 
 Every project has a beautiful feature showcase page.
