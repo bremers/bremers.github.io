@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Alexandra W.D. Bremers
 permalink: /
-subtitle: <a href='https://infosci.cornell.edu/content/bremers'>Information Science PhD Student at Cornell Tech</a>.
+subtitle: Information Science <a href='https://infosci.cornell.edu/content/bremers'>PhD Student at Cornell Tech</a>.
 
 profile:
   align: right
@@ -17,4 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I study human-robot collaboration for physical manufacturing and fabrication. My research methods cover interaction design, video analysis, and interactive device prototyping. 
+I am currently a 3rd year PhD student in the Information Science department at Cornell University, based at Cornell Tech (NYC). I am advised by associate professor Wendy Ju in the Future Automation Research Lab.
+
+I am a recipient of research grants by the Finnish Center for AI and Cornell Backslash Art, and I was selected for the RisingWISE cohort of 2018. 
+
+My research focuses on human-robot collaboration for physical manufacturing and fabrication. The methods that I use focus most on interaction design, video analysis, and interactive device prototyping. 
+
+I obtained a master's degree in Artificial Intelligence from Utrecht University in 2018 (MSc), and a bachelor's degree in Industrial Design from Eindhoven University of Technology in 2016 (BSc). Prior to starting my PhD, I was employed as Human-Machine Interface Researcher at Jaguar Land Rover Automotive PLC, based at the National Automotive Innovation Centre in Coventry, United Kingdom. In addition, I have worked internationally as a designer and researcher for organizations in Amsterdam, Taipei and Los Altos (CA).

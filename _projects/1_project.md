@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Radio embroidery
-description: Crystal radio receivers with embroidered coild
+description: Crystal radio receivers with embroidered coils
 img: assets/img/coils.jpg
 importance: 1
 category: completed
