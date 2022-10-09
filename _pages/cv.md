@@ -8,4 +8,4 @@ nav: true
 nav_order: 3
 ---
 
-<embed src="assets/pdf/Alexandra_Bremers_CV_Oct_2022.pdf" type="application/pdf">
+<embed src="bremers.github.io/assets/pdf/Alexandra_Bremers_CV_Oct_2022.pdf" type="application/pdf">
