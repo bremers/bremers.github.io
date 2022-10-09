@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cv/
+permalink: /
 title: cv
 description: 
 years: [2022]
