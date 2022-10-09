@@ -9,4 +9,4 @@ nav_order: 3
 ---
 
 
-<a href="bremers.github.io/assets/pdf/Alexandra_Bremers_CV_Oct_2022.pdf">Click here to open my CV as a PDF.</a>
+<a href="Alexandra_Bremers_CV_Oct_2022.pdf">Click here to open my CV as a PDF.</a>
