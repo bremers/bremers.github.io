@@ -8,4 +8,4 @@ nav: true
 nav_order: 3
 ---
 
-<iframe width="100%" height="800" src="Alexandra_Bremers_CV_Oct_2022.pdf">
+<embed src="Alexandra_Bremers_CV_Oct_2022.pdf" type="application/pdf">
