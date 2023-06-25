@@ -2,7 +2,7 @@
 layout: about
 title: Alexandra W.D. Bremers
 permalink: /
-subtitle: Information Science <a href='https://infosci.cornell.edu/content/bremers'>PhD Student at Cornell Tech</a>.
+subtitle: Information Science <a href='https://infosci.cornell.edu/content/bremers'>PhD Candidate at Cornell Tech</a>.
 
 profile:
   align: right
@@ -17,8 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a 3rd year PhD student in the Information Science department at Cornell University, based at Cornell Tech (NYC). I am advised by associate professor Wendy Ju.
+I am currently a 3rd year PhD Candidate in the Information Science department at Cornell University, based at Cornell Tech (New York, NY). I am advised by associate professor Wendy Ju, professor Francois Guimbretiere and professor Steve Marschner.
 
 My research focuses on human-robot collaboration for physical manufacturing and fabrication, leveraging AI and human capabilities. I am specifically interested in the physical experience of making, as well as understanding social awareness for technical systems. The methods that I use focus most on interaction design, interactive device prototyping and video analysis. 
 
-I obtained a master's degree in Artificial Intelligence from Utrecht University in 2018 (MSc), and a bachelor's degree in Industrial Design from Eindhoven University of Technology in 2016 (BSc). Previously, I was employed as Human-Machine Interface Researcher at Jaguar Land Rover Automotive PLC, based at the National Automotive Innovation Centre in Coventry, United Kingdom. In addition, I have worked internationally as a designer and researcher for organizations in Amsterdam, Taipei and Los Altos (CA).
+I obtained a master's degree in Artificial Intelligence from Utrecht University in 2018 (MSc), and a bachelor's degree in Industrial Design from Eindhoven University of Technology in 2016 (BSc). Previously, I was employed as Human-Machine Interface Researcher at Jaguar Land Rover Automotive PLC, based at the National Automotive Innovation Centre in Coventry, United Kingdom. In addition, I have worked internationally as a designer and researcher for organizations in Amsterdam, Taipei, Los Altos (CA), and San Francisco (CA).
