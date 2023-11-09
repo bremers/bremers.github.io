@@ -51,27 +51,22 @@ Throughout the years I've played a lot with Arduino and related electronics. Ada
 
 ## **Robotic movements (2020-2023)** 
 
-Through various works I have investigated expressive movements for non-anthropomorphic robots, specifically the AxiDraw MiniKit. My explorations resulted in a [published HRI concept video](https://ieeexplore.ieee.org/abstract/document/9889638/), as well as a [published SCF demonstration](https://arxiv.org/abs/2310.00215) of movements inspired by dance. I also experimented with ways to augment the design of the pen plotter to highlight its movements, for instance by taking inspiration from a peacock's crest. See below a photo of what the AxiDraw looked like, when we added two motors to allow it to be able to shake its head and point at things.
-
-![saefa](https://github.com/bremers/bremers.github.io/assets/24699361/d85a5378-1c7e-4b9d-90f1-dafc1ea4d51d)
+Through various works I have investigated expressive movements for non-anthropomorphic robots, specifically the AxiDraw MiniKit. My explorations resulted in a [published HRI concept video](https://ieeexplore.ieee.org/abstract/document/9889638/), as well as a [published SCF demonstration](https://arxiv.org/abs/2310.00215) of movements inspired by dance. I also experimented with ways to augment the design of the pen plotter to highlight its movements, for instance by taking inspiration from a peacock's crest. (Photos will be added.)
 
 ## **Visualizing fashion colors (2021-2023)** 
 
 This project is ongoing, but I've been playing around with color analysis of clothing and visualizing the K-means clusters. Example below!
 
 <img height="300" alt="examplecube" src="https://github.com/bremers/bremers.github.io/assets/24699361/0afcdda3-09db-431b-a9c7-a2a8516f1733">
-
 <img height="150" alt="exampleperson" src="https://github.com/bremers/bremers.github.io/assets/24699361/908ea8dd-0ab5-48bd-b92f-4d06e255c0d4">
-
 
 
 ## **Experiments with AxiDraw (2021-2023)** 
 
 Lastly, some of my favorite experiments with AxiDraw workflows: designing in Blender 3D and exporting to 2D; and plotting through watercolor while a sponge drips water.
 
-
-<img width="515" alt="PepperDress" src="https://github.com/bremers/bremers.github.io/assets/24699361/5fbb0246-004a-46d5-a180-1e45e826f8bf">
-<img width="515" alt="WatercolorMagenta" src="https://github.com/bremers/bremers.github.io/assets/24699361/9a462633-b728-4c47-93e5-06822d719efe">
+<img height="300" alt="PepperDress" src="https://github.com/bremers/bremers.github.io/assets/24699361/5fbb0246-004a-46d5-a180-1e45e826f8bf">
+<img height="300" alt="WatercolorMagenta" src="https://github.com/bremers/bremers.github.io/assets/24699361/9a462633-b728-4c47-93e5-06822d719efe">
 
 
 
