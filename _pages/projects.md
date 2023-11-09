@@ -29,8 +29,8 @@ For the class "Look!" at TU/e Industrial Design, I worked with a partner to expl
 
 Radio amateurism and embroidery have a lot in common -- yet, the communities practicing these crafts rarely interact. I developed a method of embroidering crystal radio receivers using conductive thread in an industrial embroidery machine. Implemented in a pillow, you could listen to local AM radio without needing an external power source. I then organized workshops for both radio hobbyists and fabric practitioners to collaboratively make embroidered radio receivers.
 
-<img height="250"  alt="Radio2" src="https://github.com/bremers/bremers.github.io/assets/24699361/4bc26562-b0b7-4617-9dbe-21939a84422b">
-<img height="250"  alt="Radio" src="https://github.com/bremers/bremers.github.io/assets/24699361/c59c02f2-8073-42ae-8732-ae0bcb415e0f">
+<img height="220"  alt="Radio2" src="https://github.com/bremers/bremers.github.io/assets/24699361/4bc26562-b0b7-4617-9dbe-21939a84422b">
+<img height="220"  alt="Radio" src="https://github.com/bremers/bremers.github.io/assets/24699361/c59c02f2-8073-42ae-8732-ae0bcb415e0f">
 
 
 ## **Interface for an AI thermostat (2017)** 
