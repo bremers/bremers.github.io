@@ -22,7 +22,7 @@ What makes light so special? _Chiaroscuro_ was a light installation which I buil
 
 For the class "Look!" at TU/e Industrial Design, I worked with a partner to explore the adjectives 'fast, intense and repulsive'. This was first achieved through a collage, after which we developed sketches and ultimately made physical eating thimbles for picking up pieces of cheese. I was responsible for the repulsive one, which I carved out of potato and adorned with a spike of alpaca wool. It looked better after a few months, but unfortunately the prototype had to be disposed of for biohazard considerations.
 
-<img width="600" alt="Look" src="https://github.com/bremers/bremers.github.io/assets/24699361/66b8b760-55f2-4879-98b7-2427463eedc0">
+<img width="700" alt="Look" src="https://github.com/bremers/bremers.github.io/assets/24699361/66b8b760-55f2-4879-98b7-2427463eedc0">
 
 
 ## **How to embroider a radio? (2016)** 
