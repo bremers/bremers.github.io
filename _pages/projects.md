@@ -48,6 +48,15 @@ Throughout the years I've played a lot with Arduino and related electronics. Ada
 
 <img width="700" alt="Neopixels2" src="https://github.com/bremers/bremers.github.io/assets/24699361/f67ed5f3-5432-4b03-9c9f-cf21aa79ab94">
 
+## **CoffeeChat (2020)** 
+
+You're working from home now, but you miss the office watercooler talk. Luckily, there is CoffeeChat! CoffeeChat is an app that links the coffee machines of remote workers -- you'll have to complete some successful small talk before you can enjoy your coffee. Never be without pleasantries again! This project was a team project conceptualized during the HCI Studio class at Cornell Tech. I was responsible for the app design.
+(In case it isn't obvious: CoffeeChat is a [critical design.](https://dunneandraby.co.uk/content/bydandr/13/0#:~:text=1.,position%20rather%20than%20a%20method.))
+
+<img width="700" alt="Screenshot 2023-11-10 at 11 22 49 AM" src="https://github.com/bremers/bremers.github.io/assets/24699361/3546d345-a6b6-47f8-b27b-44d925f3c0d5">
+
+<img width="700" alt="Screenshot 2023-11-10 at 11 22 58 AM" src="https://github.com/bremers/bremers.github.io/assets/24699361/f5b83d2a-65a3-4ae2-a666-58239220aa79">
+
 
 ## **Robotic movements (2020-2023)** 
 
@@ -57,7 +66,7 @@ Through various works I have investigated expressive movements for non-anthropom
 
 This project is ongoing, but I've been playing around with color analysis of clothing and visualizing the K-means clusters. Example below!
 
-<img height="500" alt="examplecube" src="https://github.com/bremers/bremers.github.io/assets/24699361/0afcdda3-09db-431b-a9c7-a2a8516f1733">
+<img width="350" alt="examplecube" src="https://github.com/bremers/bremers.github.io/assets/24699361/0afcdda3-09db-431b-a9c7-a2a8516f1733">
 <img height="150" alt="exampleperson" src="https://github.com/bremers/bremers.github.io/assets/24699361/908ea8dd-0ab5-48bd-b92f-4d06e255c0d4">
 
 
@@ -65,8 +74,8 @@ This project is ongoing, but I've been playing around with color analysis of clo
 
 Lastly, some of my favorite experiments with AxiDraw workflows: designing in Blender 3D and exporting to 2D; and plotting through watercolor while a sponge drips water.
 
-<img height="450" alt="PepperDress" src="https://github.com/bremers/bremers.github.io/assets/24699361/5fbb0246-004a-46d5-a180-1e45e826f8bf">
-<img height="450" alt="WatercolorMagenta" src="https://github.com/bremers/bremers.github.io/assets/24699361/9a462633-b728-4c47-93e5-06822d719efe">
+<img width="313" alt="PepperDress" src="https://github.com/bremers/bremers.github.io/assets/24699361/5fbb0246-004a-46d5-a180-1e45e826f8bf">
+<img width="350" alt="WatercolorMagenta" src="https://github.com/bremers/bremers.github.io/assets/24699361/9a462633-b728-4c47-93e5-06822d719efe">
 
 
 
