@@ -12,11 +12,6 @@ profile:
     <p>New York, NY 10044</p>
     <p>United States</p>
 
-<<<<<<< Updated upstream
-news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-=======
->>>>>>> Stashed changes
 social: true  # includes social icons at the bottom of the page
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
