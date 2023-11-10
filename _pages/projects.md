@@ -57,7 +57,7 @@ Through various works I have investigated expressive movements for non-anthropom
 
 This project is ongoing, but I've been playing around with color analysis of clothing and visualizing the K-means clusters. Example below!
 
-<img height="500" alt="examplecube" src="https://github.com/bremers/bremers.github.io/assets/24699361/0afcdda3-09db-431b-a9c7-a2a8516f1733">
+<img width="350" alt="examplecube" src="https://github.com/bremers/bremers.github.io/assets/24699361/0afcdda3-09db-431b-a9c7-a2a8516f1733">
 <img height="150" alt="exampleperson" src="https://github.com/bremers/bremers.github.io/assets/24699361/908ea8dd-0ab5-48bd-b92f-4d06e255c0d4">
 
 
@@ -65,8 +65,8 @@ This project is ongoing, but I've been playing around with color analysis of clo
 
 Lastly, some of my favorite experiments with AxiDraw workflows: designing in Blender 3D and exporting to 2D; and plotting through watercolor while a sponge drips water.
 
-<img height="450" alt="PepperDress" src="https://github.com/bremers/bremers.github.io/assets/24699361/5fbb0246-004a-46d5-a180-1e45e826f8bf">
-<img height="450" alt="WatercolorMagenta" src="https://github.com/bremers/bremers.github.io/assets/24699361/9a462633-b728-4c47-93e5-06822d719efe">
+<img width="313" alt="PepperDress" src="https://github.com/bremers/bremers.github.io/assets/24699361/5fbb0246-004a-46d5-a180-1e45e826f8bf">
+<img width="350" alt="WatercolorMagenta" src="https://github.com/bremers/bremers.github.io/assets/24699361/9a462633-b728-4c47-93e5-06822d719efe">
 
 
 
