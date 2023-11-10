@@ -48,6 +48,15 @@ Throughout the years I've played a lot with Arduino and related electronics. Ada
 
 <img width="700" alt="Neopixels2" src="https://github.com/bremers/bremers.github.io/assets/24699361/f67ed5f3-5432-4b03-9c9f-cf21aa79ab94">
 
+## **CoffeeChat (2020)** 
+
+You're working from home now, but you miss the office watercooler talk. Luckily, there is CoffeeChat! CoffeeChat is an app that links the coffee machines of remote workers -- you'll have to complete some successful small talk before you can enjoy your coffee. Never be without pleasantries again! This project was a team project conceptualized during the HCI Studio class at Cornell Tech. I was responsible for the app design.
+(In case it isn't obvious: CoffeeChat is a [critical design.](https://dunneandraby.co.uk/content/bydandr/13/0#:~:text=1.,position%20rather%20than%20a%20method.))
+
+<img width="700" alt="Screenshot 2023-11-10 at 11 22 49 AM" src="https://github.com/bremers/bremers.github.io/assets/24699361/3546d345-a6b6-47f8-b27b-44d925f3c0d5">
+
+<img width="700" alt="Screenshot 2023-11-10 at 11 22 58 AM" src="https://github.com/bremers/bremers.github.io/assets/24699361/f5b83d2a-65a3-4ae2-a666-58239220aa79">
+
 
 ## **Robotic movements (2020-2023)** 
 
