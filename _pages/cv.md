@@ -9,6 +9,6 @@ nav_order: 3
 ---
 
 
-<a href="Alexandra_Bremers_CV_Nov8.pdf">Click here to open my CV as a PDF.</a>
+<a href="Bremers_cv.pdf">Click here to open my CV as a PDF.</a>
 
 
