@@ -26,6 +26,4 @@ Sheep in Veluwezoom National Park, The Netherlands (2018).
 
 Home in Earlsdon, UK (2018).
 
-<img width="700" alt="Joubert" src="https://github.com/bremers/bremers.github.io/assets/24699361/9af67f3a-2cd5-4c59-82d5-da78cd3f16d8">
 
-Joubertstraat, Amsterdam (2015).
