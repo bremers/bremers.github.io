@@ -6,7 +6,7 @@ subtitle: Information Science <a href='https://infosci.cornell.edu/content/breme
 
 profile:
   align: right
-  image: iros.jpeg
+  image: profile.png
   address: >
     <p>2 W Loop Rd</p>
     <p>New York, NY 10044</p>
