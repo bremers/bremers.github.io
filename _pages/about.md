@@ -23,7 +23,7 @@ My research focuses on human-robot collaboration for physical manufacturing and 
 
 I hold a master's degree in Artificial Intelligence from Utrecht University (M.S.), and a bachelor's degree in Industrial Design from Eindhoven University of Technology (B.S.). Between 2017 and 2020 I was employed as Human-Machine Interface Researcher at Jaguar Land Rover Automotive PLC, based at the National Automotive Innovation Centre in Coventry, United Kingdom. Other work experiences include Toyota Research Institute and Accenture Labs R&D.
 
-My work has been published in top venues in human-computer interaction and human-robot interaction, including IJHCS and IROS, and I co-authored work shown at CHI, SCF, HRI, TEI, AutoUI and IEEE IV. 
+My work has been published at top venues in human-computer interaction and human-robot interaction, including IJHCS and IROS, and I co-authored work shown at ACM conferences CHI, HRI, TEI, AutoUI, SCF, CUI as well as in the journal IEEE IV. 
 
 
 
