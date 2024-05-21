@@ -4,5 +4,5 @@ date: 2024-05-21 15:59:00-0400
 inline: true
 ---
 
-Excited that two posters got accepted into ACM CUI (conversational user interfaces). I will present our work in Luxembourg in July!
+Excited that two posters got accepted into ACM CUI (conversational user interfaces): our [analysis of social discomfort in shared car trips](https://bremers.github.io/papers/Bremers2024Designing.pdf), and a preliminary study on situated conversational interfaces for task guidance. I will present our work in Luxembourg in July!
 
