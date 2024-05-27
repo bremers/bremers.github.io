@@ -2,7 +2,7 @@
 layout: about
 title: Alexandra W.D. Bremers
 permalink: /
-subtitle: Information Science <a href='https://infosci.cornell.edu/content/bremers'>PhD Candidate at Cornell Tech</a>.
+subtitle: **Information Science <a href='https://infosci.cornell.edu/content/bremers'>PhD Candidate at Cornell Tech</a>.**
 
 profile:
   align: right
@@ -17,7 +17,6 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 
-**Information Science PhD Candidate at Cornell Tech**
 
 Alexandra Bremers is a 4th year PhD Candidate in the Information Science department at Cornell University, based at Cornell Tech (New York, NY). Advised by associate professor [Wendy Ju](https://wendyju.com), with professor [Francois Guimbretiere](https://www.cs.cornell.edu/~francois/) and professor [Steve Marschner](https://www.cs.cornell.edu/~srm/) on the committee, Alexandra's research focuses on human-robot collaboration for manufacturing and fabrication, leveraging digital automation and human capabilities.
 
