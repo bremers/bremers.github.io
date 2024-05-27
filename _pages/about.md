@@ -2,7 +2,7 @@
 layout: about
 title: Alexandra W.D. Bremers
 permalink: /
-subtitle: **Information Science <a href='https://infosci.cornell.edu/content/bremers'>PhD Candidate at Cornell Tech</a>.**
+subtitle: Information Science <a href='https://infosci.cornell.edu/content/bremers'>PhD Candidate at Cornell Tech</a>.
 
 profile:
   align: right
