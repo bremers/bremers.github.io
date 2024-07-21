@@ -9,7 +9,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 
-<div class="lkg-blocks-player" style="padding:30% 0 0 0;position:relative;"><iframe src="https://blocks.glass/embed/ac7c3b5e-199a-491b-94ea-8ffd8502ef4b" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" allow="autoplay; encrypted-media; xr-spatial-tracking; accelerometer; gyroscope; magnetometer" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" execution-while-out-of-viewport="true" execution-while-not-rendered="true"></iframe></div>
+<div class="lkg-blocks-player" style="padding:50% 0 0 0;position:relative;"><iframe src="https://blocks.glass/embed/ac7c3b5e-199a-491b-94ea-8ffd8502ef4b" frameborder="0" style="position:absolute;top:0;left:0;width:50%;height:50%;" allow="autoplay; encrypted-media; xr-spatial-tracking; accelerometer; gyroscope; magnetometer" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" execution-while-out-of-viewport="true" execution-while-not-rendered="true"></iframe></div>
 
 Alexandra Bremers is a PhD Candidate in Information Science at Cornell University, based at Cornell Tech (New York, NY). She works with [Wendy Ju](https://wendyju.com), [Francois Guimbretiere](https://www.cs.cornell.edu/~francois/) and [Steve Marschner](https://www.cs.cornell.edu/~srm/) on human-robot collaboration for creative physical tasks.
 
