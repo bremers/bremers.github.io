@@ -1,13 +1,11 @@
 ---
-layout: page
+layout: cv
 permalink: /cv/
 title: cv
-description: 
-years: [2023]
 nav: true
-nav_order: 3
+nav_order: 5
+cv_pdf: example_pdf.pdf
+description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+toc:
+  sidebar: left
 ---
-
-
-<a href="Bremers_cv.pdf">Click here to open my CV as a PDF.</a>
-
