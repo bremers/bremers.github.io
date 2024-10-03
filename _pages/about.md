@@ -2,23 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: alexandra.jpeg
+  image_circular: true # crops the image to make it circular
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-## Alexandra W.D. **Bremers**
 
 I am a <a href='https://infosci.cornell.edu/content/bremers'>PhD Candidate</a> in Information Science at Cornell University, based at Cornell Tech in New York, NY. I work with [Wendy Ju](https://wendyju.com), [Francois Guimbretiere](https://www.cs.cornell.edu/~francois/) and [Steve Marschner](https://www.cs.cornell.edu/~srm/) on interaction design for human-machine collaboration. 
 
