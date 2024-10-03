@@ -1,25 +1,27 @@
 ---
 layout: about
-title: about
+title: Alexandra W.D. Bremers
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: profile.png
+  address: >
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+
+social: true  # includes social icons at the bottom of the page
+news: true  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Alexandra W.D. **Bremers**
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a <a href='https://infosci.cornell.edu/content/bremers'>PhD Candidate</a> in Information Science at Cornell University, based at Cornell Tech in New York, NY. I work with [Wendy Ju](https://wendyju.com), [Francois Guimbretiere](https://www.cs.cornell.edu/~francois/) and [Steve Marschner](https://www.cs.cornell.edu/~srm/) on interaction design for human-machine collaboration. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I hold an M.S. in Information Science from Cornell, an M.S. in Artificial Intelligence from Utrecht University, and a B.S. in Industrial Design from TU Eindhoven. I briefly studied automotive human-technology interaction at Warwick University. From 2017 to 2020, I worked as a Human-Machine Interface Researcher at Jaguar Land Rover, UK, collaborating with Cambridge University. While at Jaguar, I was selected for the 2018 Oxford-Cambridge cohort of Rising Women in Science and Engineering (RisingWISE), and recognized for innovation through JLR & Tata Innovista. I also worked at Toyota Research Institute and Accenture Labs in the Bay Area, and at National Taiwan University.
+
+In addition to my technical work, I worked on art and design projects, and won awards in creative and print writing. In 2020, I received the Royal Commission of 1851 Industrial Fellowship to pursue a PhD in Engineering at Cambridge University.
+
+[CV](https://bremers.github.io/cv/Bremers_cv.pdf) / [Google Scholar](https://scholar.google.com/citations?user=WB5PtlIAAAAJ&hl=en) / [ResearchGate](https://www.researchgate.net/profile/Alexandra-Bremers).
+
+---
