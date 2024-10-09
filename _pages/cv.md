@@ -8,4 +8,6 @@ nav_order: 3
 
 [CV](Bremers_cv.pdf) /
 
-[Resume](Bremers_resume.pdf)
+[Resume](Bremers_resume.pdf) /
+
+[Portfolio](Bremers_portfolio.pdf)
