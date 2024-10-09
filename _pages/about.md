@@ -20,4 +20,4 @@ I hold an M.S. in Information Science from Cornell, an M.S. in Artificial Intell
 
 In addition to my technical work, I worked on art and design projects, and won awards in creative and print writing. In 2020, I received the Royal Commission of 1851 Industrial Fellowship to pursue a PhD in Engineering at Cambridge University.
 
-[Google Scholar](https://scholar.google.com/citations?user=WB5PtlIAAAAJ&hl=en) / [ResearchGate](https://www.researchgate.net/profile/Alexandra-Bremers)
+[Google Scholar](https://scholar.google.com/citations?user=WB5PtlIAAAAJ&hl=en) / [ResearchGate](https://www.researchgate.net/profile/Alexandra-Bremers) / [CV](Bremers_cv.pdf) / [Resume](Bremers_resume.pdf)
