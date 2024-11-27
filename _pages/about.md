@@ -18,6 +18,6 @@ social: true # includes social icons at the bottom of the page
 
 I hold an M.S. in Information Science from Cornell, an M.S. in Artificial Intelligence from Utrecht University, and a B.S. in Industrial Design from TU Eindhoven. I briefly studied automotive human-technology interaction at Warwick University. From 2017 to 2020, I worked as a Human-Machine Interface Researcher at Jaguar Land Rover, UK, collaborating with Cambridge University. While at Jaguar, I was selected for the 2018 Oxford-Cambridge cohort of Rising Women in Science and Engineering (RisingWISE), and recognized for innovation through JLR & Tata Innovista. I also worked at Toyota Research Institute and Accenture Labs in the Bay Area, and at National Taiwan University.
 
-In addition to my technical work, I worked on art and design projects, and won awards in creative and print writing. In 2020, I received the Royal Commission of 1851 Industrial Fellowship to pursue a PhD in Engineering at Cambridge University.
+In addition to my technical work, I worked on art and design projects, and won awards in creative and print writing. In 2020, I received the Royal Commission of 1851 Industrial Fellowship to pursue a PhD in Engineering at University of Cambridge.
 
 [Google Scholar](https://scholar.google.com/citations?user=WB5PtlIAAAAJ&hl=en) / [CV](https://bremers.github.io/cv/Bremers_cv.pdf) / [Resume](https://bremers.github.io/cv/Bremers_resume.pdf) / [Portfolio](https://bremers.github.io/cv/Bremers_portfolio.pdf)
