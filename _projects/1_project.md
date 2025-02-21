@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: Placeholder
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/comingsoon.gif
 importance: 1
 category: Research
 related_publications: true

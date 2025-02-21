@@ -4,7 +4,7 @@ title: Embroidered Radio
 description: Crystal radio receivers through conductive yarn embroidery
 img: assets/img/radio-1.png
 importance: 2
-category:Design
+category: Design
 ---
 
 Every project has a beautiful feature showcase page.
