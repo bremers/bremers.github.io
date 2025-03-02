@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-nav: true
+nav: false
 nav_order: 3
 display_categories: [Research, Design]
 horizontal: false

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:
 
@@ -20,4 +20,4 @@ I hold an M.S. in Information Science from Cornell, an M.S. in Artificial Intell
 
 In addition to my technical work, I worked on art and design projects, and won awards in creative and print writing. In 2020, I received the Royal Commission of 1851 Industrial Fellowship to pursue a PhD in Engineering at University of Cambridge.
 
-[Google Scholar](https://scholar.google.com/citations?user=WB5PtlIAAAAJ&hl=en) / [CV](https://bremers.github.io/cv/Bremers_cv.pdf) / [Resume](https://bremers.github.io/cv/Bremers_resume.pdf) / [Portfolio](https://bremers.github.io/cv/Bremers_portfolio.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=WB5PtlIAAAAJ&hl=en) / [CV](https://bremers.github.io/cv/Bremers_cv.pdf) / [Resume](https://bremers.github.io/cv/Bremers_resume.pdf) 
