@@ -1,8 +1,8 @@
 ---
 layout: page
-title: The BAD Dataset & BADNet
+title: Instrumenting Machines for Creative Collaboration
 description: Crystal radio receivers through conductive yarn embroidery
-img: assets/img/35bad.jpeg
+img: assets/img/35instrumenting.jpeg
 importance: 2
 category: Research
 ---

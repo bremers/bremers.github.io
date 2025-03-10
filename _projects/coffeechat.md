@@ -1,10 +1,10 @@
 ---
 layout: page
-title: The BAD Dataset & BADNet
-description: Crystal radio receivers through conductive yarn embroidery
-img: assets/img/35bad.jpeg
+title: Design for Debate with CoffeeChat
+description: Bringing Situated Intelligence to GenAI
+img: assets/img/35coffeechat.jpeg
 importance: 2
-category: Research
+category: Design
 ---
 
 Every project has a beautiful feature showcase page.

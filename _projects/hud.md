@@ -1,8 +1,8 @@
 ---
 layout: page
-title: The BAD Dataset & BADNet
+title: Perception of Perspective in AR HUDs
 description: Crystal radio receivers through conductive yarn embroidery
-img: assets/img/35bad.jpeg
+img: assets/img/35hud.jpeg
 importance: 2
 category: Research
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Embroidered Radio
+title: How to Embroider a Radio
 description: Crystal radio receivers through conductive yarn embroidery
-img: assets/img/radio-1.png
+img: assets/img/radio-1.jpeg
 importance: 2
 category: Design
 ---

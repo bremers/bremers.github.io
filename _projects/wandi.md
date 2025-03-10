@@ -1,8 +1,8 @@
 ---
 layout: page
-title: The BAD Dataset & BADNet
-description: Crystal radio receivers through conductive yarn embroidery
-img: assets/img/35bad.jpeg
+title: Real-Life Superhero Sound Effects
+description: Bringing Situated Intelligence to GenAI
+img: assets/img/35wandi.jpeg
 importance: 2
 category: Research
 ---

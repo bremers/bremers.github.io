@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Plotter Art
+title: Drawing with Machines
 description: Crystal radio receivers through conductive yarn embroidery
 img: assets/img/35plotter.jpeg
 importance: 2
