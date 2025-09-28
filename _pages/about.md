@@ -14,12 +14,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a [PhD Candidate](https://infosci.cornell.edu/content/bremers) in Information Science at Cornell University, based at Cornell Tech in New York City. I work with [Wendy Ju](https://wendyju.com) and [François Guimbretière](https://infosci.cornell.edu/content/guimbretière) on interactive, intelligent physical machines that support people during fabrication tasks. My minor is in computer science, with a focus on computer vision and graphics. I am a Cornell PiTech AI in Arts & Culture Fellow.
+**I'm currently on the job market for industry Research Scientist / User Experience Researcher positions starting in May 2026.**
 
-I’ve previously interned at Walt Disney Imagineering R&D, Accenture Labs, Toyota Research Institute, and National Taiwan University. Before Cornell, I worked in industry as a Human-Machine Interface Researcher at Jaguar Land Rover in the UK, collaborating with the University of Cambridge. While at Jaguar, I was selected for Oxford-Cambridge RisingWISE, and recognized for innovation through JLR & Tata Innovista.
+I’m a [PhD Candidate](https://infosci.cornell.edu/content/bremers) in Information Science at Cornell University, based at Cornell Tech in New York City. My research, advised by [Wendy Ju](https://wendyju.com) and [François Guimbretière](https://infosci.cornell.edu/content/guimbretière), explores how interactive and intelligent machines can support human creativity during fabrication and design tasks. My doctoral work integrates human–computer interaction, design, and systems development, and I am a Cornell PiTech AI in Arts & Culture Fellow.
 
-My academic background includes an M.S. in Information Science (Cornell), an M.S. in Artificial Intelligence (Utrecht University), and a B.S. in Industrial Design (TU Eindhoven, see [my portfolio](https://bremers.github.io/cv/Bremers_portfolio2025.pdf)). In 2020, I was awarded the Royal Commission for the Exhibition of 1851 Industrial Fellowship to pursue a PhD in Engineering at the University of Cambridge. 
+I bring 8+ years of combined academic and industry research experience, with internships at Walt Disney Imagineering R&D, Accenture Labs, Toyota Research Institute, and National Taiwan University. Prior to Cornell, I worked as a Human–Machine Interface Researcher at Jaguar Land Rover in the UK, where I collaborated with the University of Cambridge and was recognized through the Oxford–Cambridge RisingWISE program and JLR & Tata Innovista innovation awards.
 
-My work sits at the intersection of human-computer interaction, design, and emerging technologies. Alongside research, I maintain a creative practice and have received recognition in design, writing, and art.
+My academic background spans Information Science (M.S., Cornell), Artificial Intelligence (M.S., Utrecht University), and Industrial Design (B.S., TU Eindhoven, see [my portfolio](https://bremers.github.io/cv/Bremers_portfolio2025.pdf)). In 2020, I was awarded the Royal Commission for the Exhibition of 1851 Industrial Fellowship to pursue doctoral study at Cambridge.
+
+My work sits at the intersection of HCI, design, and emerging technologies, with a focus on building systems that empower people to create. Alongside research, I maintain a creative practice and have received recognition in design, writing, and art.
 
 [Google Scholar](https://scholar.google.com/citations?user=WB5PtlIAAAAJ&hl=en) / [CV](https://bremers.github.io/cv/Bremers_cv.pdf) / [Resume](https://bremers.github.io/cv/Bremers_resume.pdf) / [Portfolio](https://bremers.github.io/cv/Bremers_portfolio2025.pdf) 
