@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: profile.png
+  image: bdx1.png
   image_circular: true # crops the image to make it circular
 
 news: false # includes a list of news items
