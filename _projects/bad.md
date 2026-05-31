@@ -1,20 +1,20 @@
 ---
 layout: page
 title: The BAD Dataset & BADNet
-description: Crystal radio receivers through conductive yarn embroidery
+description: A dataset and model for detecting robot task failures through bystander facial expressions, with a framework for error recognition in HRI.
 img: assets/img/35bad.jpeg
-importance: 2
-category: Research
+importance: 1
+category: Sensing & HRI
+tags: [python, computer-vision, user-study]
+year: 2023
+venue: IEEE IROS 2023
+featured: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The BAD Robots project investigated the potential of error recognition for robotic systems by looking at human facial expressions. The project consisted of: (1) development of a framework, published on arXiv; (2) development of the Bystander Affect Detection dataset of human reactions to failures; and (3) development of BADNet, a model trained to detect failures based on facial reactions.
 
+The BAD Dataset was collected through Qualtrics using Prolific as a recruitment method, and the dataset is available through the Qualitative Data Repository (QDR). The project led to a publication at IROS and a [project website](https://irl-ct.github.io/bad-dataset/).
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-
+**Publications:**
+- Alexandra Bremers et al. "The Bystander Affect Detection (BAD) dataset for failure detection in HRI". In: *IEEE/RSJ IROS 2023*. [doi:10.1109/IROS55552.2023.10342442](https://doi.org/10.1109/IROS55552.2023.10342442)
+- Alexandra Bremers et al. "Using Social Cues to Recognize Task Failures for HRI: Overview, State-of-the-Art, and Future Directions". [arXiv:2301.11972](https://doi.org/10.48550/arXiv.2301.11972)

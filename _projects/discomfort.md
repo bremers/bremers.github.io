@@ -1,20 +1,18 @@
 ---
 layout: page
 title: Understanding Social Discomfort in Cars
-description: Bringing Situated Intelligence to GenAI
+description: Analyzing family car trips to understand social discomfort and designing conversational interventions for shared driving experiences.
 img: assets/img/35discomfort.jpeg
 importance: 2
-category: Research
+category: Automotive
+tags: [user-study, design]
+year: 2024
+venue: ACM CUI 2024
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Unpleasant social interactions on the road can negatively affect driving safety. We recorded nine families going on drives and performed interaction analysis on this data. We defined three strategies to address social discomfort: contextual mediation, social mediation, and social support.
 
+We discuss considerations for engineering and design, and explore the limitations of current large language models in addressing social discomfort on the road.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-
+**Publication:**
+- Alexandra Bremers, Natalie Friedman, Sam Lee, Tong Wu, Eric Laurier, Malte Jung, Jorge Ortiz, Wendy Ju. "(Social) Trouble on the Road: Understanding and Addressing Social Discomfort in Shared Car Trips". In: *ACM CUI 2024*. [doi:10.1145/3640794.3665580](https://dl.acm.org/doi/10.1145/3640794.3665580)

@@ -1,20 +1,16 @@
 ---
 layout: page
 title: How to Embroider a Radio
-description: Crystal radio receivers through conductive yarn embroidery
+description: AM crystal radio receivers built from machine-embroidered conductive yarn coils — a B.Sc. graduation project combining electronics and textile craft.
 img: assets/img/radio-1.jpeg
 importance: 2
 category: Design
+tags: [prototyping, fabrication, design]
+year: 2016
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I developed AM crystal radio receivers based on machine-embroidered coils. When a person covers the receiving coil with one hand and the antenna (also an embroidered coil) of a transmitter with the other, they can listen to music.
 
+The coils were created based on a Processing program that generated a PDF file based on a specified number of windings and diameter, which was then converted into .dst format and embroidered with a digital embroidery machine and multi-kernel isolated copper thread.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-
+B.Sc. graduation project at TU Eindhoven, Wearable Senses lab.

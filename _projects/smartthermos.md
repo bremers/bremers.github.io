@@ -1,20 +1,14 @@
 ---
 layout: page
 title: Smart Home Interface Design
-description: Bringing Situated Intelligence to GenAI
+description: A graphical user interface for complex smart home systems, used as a design probe for qualitative interviews during a research internship in Taipei.
 img: assets/img/35smartthermostat.jpeg
-importance: 2
+importance: 3
 category: Design
+tags: [design, user-study]
+year: 2017
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+A graphical user interface was designed to include additional preference controls and system status information for a complex smart home system. The design process gave insights to the technical side of the system, and the design served as a probe during semi-structured qualitative interviews, which informed engineering decisions.
 
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-
+Project completed during an internship at the NTU IoX Center, National Taiwan University, Taipei.

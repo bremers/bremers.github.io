@@ -1,20 +1,19 @@
 ---
 layout: page
 title: Collaborative Creative Machines
-description: Bringing Situated Intelligence to GenAI
+description: Envisioning and prototyping new ways of collaborating with creative machines, balancing automation and craftsmanship in mixed-initiative drawing systems.
 img: assets/img/35collaborativeplotters.jpeg
 importance: 2
-category: Research
+category: Creative Machines
+tags: [prototyping, user-study, wizard-of-oz, fabrication]
+year: 2020–2024
+venue: HRI 2024 Workshop
+featured: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+For my PhD thesis, I envision, enact, and prototype new ways of collaborating with creative machines, starting from sketches. I explored how people could collaborate with machines in various ways, and the values at play when balancing automation and craftsmanship.
 
+I built these interactions into Wizard-of-Oz systems with various degrees of autonomy, to test interactions with people.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-
+**Publication:**
+- Alexandra Bremers, Wendy Ju. "Designing Interactions for Mixed-Initiative Machines: Balancing Automation and Craftsmanship". In: *1st International Workshop on Worker-Robot Relations at HRI 2024*. [doi:10.13140/RG.2.2.22111.06562](http://dx.doi.org/10.13140/RG.2.2.22111.06562)

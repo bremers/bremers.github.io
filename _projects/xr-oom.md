@@ -1,20 +1,18 @@
 ---
 layout: page
-title: XR-OOM: XR Driving Simulator
-description: Bringing Situated Intelligence to GenAI
+title: "XR-OOM: Mixed Reality Driving Simulator"
+description: A low-cost mixed reality driving simulator that superimposes virtual objects into real-world driving, validated for safety research.
 img: assets/img/35xroom.jpeg
 importance: 2
-category: Research
+category: Automotive
+tags: [prototyping, user-study]
+year: 2022
+venue: ACM CHI 2022
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+High-fidelity driving simulators can act as testbeds for designing in-vehicle interfaces or validating the safety of novel driver assistance features. In this system paper, we develop and validate the safety of a mixed reality driving simulator system that enables us to superimpose virtual objects and events into the view of participants engaging in real-world driving in unmodified vehicles.
 
+We validated the mixed reality system for basic driver cockpit and low-speed driving tasks, comparing the use of the system with non-headset and headset driving conditions, to ensure that participants behave and perform similarly using this system as they would otherwise.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-
+**Publication:**
+- David Goedicke, Alexandra Bremers, Sam Lee, Fanjun Bu, Hiroshi Yasuda, Wendy Ju. "XR-OOM: MiXed Reality Driving Simulation With Real Cars". In: *ACM CHI 2022*. [doi:10.1145/3491102.3517704](https://doi.org/10.1145/3491102.3517704)

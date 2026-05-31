@@ -1,20 +1,22 @@
 ---
 layout: page
 title: Instrumenting Machines for Creative Collaboration
-description: Crystal radio receivers through conductive yarn embroidery
+description: How should fabrication machines be instrumented to capture human-machine interactions and support creative workflows? Multi-camera video analysis of novice users with tabletop machines.
 img: assets/img/35instrumenting.jpeg
-importance: 2
-category: Research
+importance: 1
+category: Creative Machines
+tags: [python, computer-vision, user-study, prototyping, fabrication]
+year: 2025
+venue: Under review
+featured: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The machine needs to capture what is going on. But how should the machine be instrumented for creative human-machine collaboration?
 
+This project explores this through three sub-questions: (1) What types of signals and situations need to be captured for interaction designers to understand human-machine interactions? (2) How well does multi-camera instrumentation enable designers to observe these signals and situations? (3) Which signals could future machines leverage to improve collaboration?
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+As part of this work, we developed the **FabriCam-5** dataset: a multiview video dataset of novice interactions with tabletop fabrication machines.
 
-
-
+**Publications:**
+- Alexandra Bremers, Thijs Roumen, Francois Guimbretiere, Wendy Ju. "Instrumenting Fabrication Machines for Video Interaction Analysis and Creative Support". Under review, 2025.
+- FabriCam-5 dataset: [doi:10.7910/DVN/X1LZKJ](https://doi.org/10.7910/DVN/X1LZKJ)

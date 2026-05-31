@@ -1,20 +1,14 @@
 ---
 layout: page
 title: Energy Belt Speculative Prototype
-description: Bringing Situated Intelligence to GenAI
+description: A speculative prototype for the Nano Supermarket exhibition — a belt that charges your phone on belly fat, built with Neopixel LEDs and Arduino.
 img: assets/img/35energybelt.jpeg
-importance: 2
+importance: 4
 category: Design
+tags: [prototyping, design]
+year: 2015
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This prototype for Next Nature Network's Nano Supermarket exhibition embodied the story of a hypothetical belt which could charge your phone on belly fat. I developed the concept for a color-changing LED ring that could be remote-controlled for demonstration purposes.
 
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-
+The program was developed in C++ using an Adafruit Neopixel ring, and the prototype was battery-powered. I worked on this with another intern who focused on the 3D model and fabric belt.

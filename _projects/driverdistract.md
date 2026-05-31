@@ -1,20 +1,18 @@
 ---
 layout: page
 title: Modeling Driver Interruptibility
-description: Bringing Situated Intelligence to GenAI
+description: Designing experiments and Bayesian models to predict the right moment to interrupt drivers with non-critical information, using vehicular signals.
 img: assets/img/35driverdistraction.jpeg
 importance: 2
-category: Research
+category: Automotive
+tags: [user-study, python]
+year: 2017–2020
+venue: IEEE Trans. Intelligent Vehicles 2023
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+During my time at Jaguar Land Rover, I designed an experiment to determine the right time to interrupt drivers with non-critical audio information on the road. I used a modified peripheral detection task to gather a fine-grained dataset of moments of subjective high or low cognitive workload.
 
+Together with the University of Cambridge, a Bayesian model was developed to predict these moments of low workload based on vehicular signals such as driving speed and steering wheel data.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-
+**Publication:**
+- Nermin Caber, Jiaming Liang, Bashar I. Ahmad, Simon Godsill, Alexandra Bremers, et al. "Driver Profiling and Bayesian Workload Estimation for Adaptive In-Vehicle HMI". In: *IEEE Transactions on Intelligent Vehicles*. 2023. [doi:10.1109/TIV.2023.3313419](https://doi.org/10.1109/TIV.2023.3313419)

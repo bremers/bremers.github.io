@@ -1,20 +1,12 @@
 ---
 layout: page
 title: Drawing with Machines
-description: Crystal radio receivers through conductive yarn embroidery
+description: Artistic explorations with the AxiDraw pen plotter — watercolor workflows, 3D-modeled drawings, and co-drawing experiments.
 img: assets/img/35plotter.jpeg
-importance: 2
-category: Design
+importance: 4
+category: Creative Machines
+tags: [python, fabrication, design]
+year: 2020–2024
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-
+Alongside my research, I continuously experiment with artistic workflows using the AxiDraw pen plotter. This practice has led to explorations with watercolor, 3D-modeled drawings, and co-drawing with the machine. These experiments inform my research on mixed-initiative creative collaboration and have been exhibited through Cornell's Backslash Art program.

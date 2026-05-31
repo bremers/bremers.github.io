@@ -1,20 +1,16 @@
 ---
 layout: page
-title: Real-Life Superhero Sound Effects
-description: Bringing Situated Intelligence to GenAI
+title: "Wandi & Kepi: Superhero Sound Effects"
+description: A wearable superhero cape and wand that accompany children's movements with sound effects, designed for patients with Smith-Magenis Syndrome.
 img: assets/img/35wandi.jpeg
-importance: 2
-category: Research
+importance: 4
+category: Design
+tags: [prototyping, design, user-study]
+year: 2014
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The aim of this project was to design a musical object for children with disabilities. From user studies with a patient with Smith-Magenis Syndrome, we learned that these patients often suffer from low self-esteem since they realize they can do less than their peers, and they preferred toys with sound effects.
 
+We developed Kepi and Wandi — a superhero cape and wand that accompany the patient's movements with superhero sound effects. A technical prototype was built using Teensy, XBees, gyro/accelerometer sensors, and MaxMSP.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-
+Team project during my first year of B.Sc. in Industrial Design at TU Eindhoven.
